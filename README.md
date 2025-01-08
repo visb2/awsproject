@@ -1,4 +1,4 @@
-ago
+
 🚀 Project Update: AWS-Powered Exponentiation App 🚀
 
 I'm thrilled to share my latest project, an application that calculates the result of any base raised to a given exponent, powered by AWS services!
