@@ -12,5 +12,3 @@ I'm thrilled to share my latest project, an application that calculates the resu
 ⚡ Amazon DynamoDB: Storing calculation history for quick retrieval and analytics.
 
 This project gave me hands-on experience integrating these powerful AWS tools to build a responsive and scalable app. 💡
-
-hashtag#AWS hashtag#CloudComputing hashtag#Serverless hashtag#Amplify hashtag#Lambda hashtag#DynamoDB hashtag#API hashtag#IAM hashtag#LinkedInTech
